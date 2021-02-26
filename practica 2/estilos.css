@@ -1,0 +1,46 @@
+/** Archivo de estilos 
+
+    1. Bajar cambios
+    2. Crear rama rama-estilos-ficha-nombre
+    3.
+    Crear una regla de estilos para su ficha con la siguiente convención:
+        .Nombre-Ficha {
+            ...
+        }
+        3.1 asignar su clase a su ficha
+    4. Salvar sus cambios
+    5. Hacer commit en Git con el código :lipstick: estilos-ficha-nombre
+    6. Avisar que se hizo PR
+    7. De haber conflictos, resolver los conflictos
+
+
+    ** CICLO DE GIT **
+    1. en rama develop bajar cambios (fetch origin)
+    2. mezclar rama upstream/develop con develop
+    3. Crear rama nueva
+    4. Codificar mi funcion
+        4.1 salvar
+        4.2 probar (me auxilio de la extensión live server o abro directamente el archivo)
+    5. Commit de mis cambios (usar el código especificado para la función)
+    6. Volver a la rama develop y bajar cambios (pasos 1 y 2)
+    7. Volver a la rama de mi función y mezclar mi rama con la rama develop (para evitar conflictos)
+    8. Hacer publish branch
+    9. Hacer Pull Request (solicitud de extracción)
+    10. Avisar de mi PR en el grupo
+    
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Ficha-julio {
+    font-family: sans-serif;
+    width: 350px;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 4px #ccc;
+}
