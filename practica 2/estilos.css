@@ -127,3 +127,16 @@ body {
 	font-style:italic;
 }
     
+.Ficha-diego{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient( 90deg, #800400, #185085);
+    width: 400px;
+    display: block 20 px;
+    margin: auto;
+    border: 8px inset rgb(185, 31, 31);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 5px rgb(146, 143, 106);
+   
+        
+}
