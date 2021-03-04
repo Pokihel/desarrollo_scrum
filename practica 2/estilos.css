@@ -58,4 +58,20 @@ body {
     border: #05545A 5px dashed;
     text-align: center;
     color: #540851;
+
+
+
+} 
+.Ficha-Enrique{
+    font-family: cursive;
+    background-color:rgb(197, 235, 135);
+    width: 400px;
+    display: block 20 px;
+    margin: auto;
+    border: 8px solid coral;
+    text-align: center;
+    color: rgb(139, 76, 34);
+    box-shadow: 5px 5px rgb(146, 143, 106);
+   
+        
 }
