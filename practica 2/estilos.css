@@ -101,6 +101,16 @@ body {
    
         
 }
+.ficha-paola{
+    font-size: sans-serif, font-kerning;
+    background-color: rgb(255, 0, 53);
+    color: rgb(157, 255, 0);
+    margin: auto;
+    width: 350px;
+    padding: 25px;
+    border: blue 3px dotted;
+    text-align: center;
+}
 .Ficha-lorena{
     font-family:times, Helvetica, sans-serif ;
     color:blue;
