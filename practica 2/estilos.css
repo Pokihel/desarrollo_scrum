@@ -43,6 +43,21 @@ body {
     border: 1px solid black;
     text-align: center;
     box-shadow: 2px 4px #ccc;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.Ficha-xoch {
+   
+    font-family: 'Century Gothic', Arial, sans-serif;
+    background-color: #F7D5F6;
+    width: 350px;
+    display: block;
+    margin: auto;
+    border: #05545A 5px dashed;
+    text-align: center;
+    color: #540851;
 
 
 
