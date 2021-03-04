@@ -75,3 +75,16 @@ body {
    
         
 }
+.Ficha-angel{
+    font-family :Century Gothic, sans-serif;
+    background-color:rgb(24, 13, 53);
+    color:rgb(0, 247, 255);
+    margin: auto;
+    width: 380px;
+    padding: 25px;
+    border: chartreuse 8px inset;
+    text-shadow: 1px 3px 5px rgb(255, 0, 53);
+
+    
+    
+}
