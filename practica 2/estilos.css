@@ -101,3 +101,19 @@ body {
    
         
 }
+.Ficha-lorena{
+    font-family:times, Helvetica, sans-serif ;
+    color:blue;
+    width:500px;
+    margin:20pz;
+    display: block;
+    text-align:center;
+    border:6px solid red;  
+    margin-left:100px;
+	margin-right:30px;
+	margin-top:30px;
+    background-color:yellow;
+	font-size:20pt; 
+	font-style:italic;
+}
+    
