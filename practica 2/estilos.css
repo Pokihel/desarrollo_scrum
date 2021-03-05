@@ -149,6 +149,16 @@ body {
     text-align: center;
     color: rgb(0, 0, 0);
     box-shadow: 5px 5px rgb(146, 143, 106);
-   
+   }
+
+.Ficha-leonardo{
+    font-size: times, Helvatica, sans-serif;
+    width: 400px;
+    display: block 20 px;
+    margin: auto;
+    color: #F7D5F6;
+    border: #3372CC 10px double;
+    background-color: #872F4F;
+    text-align: center;
         
 }
