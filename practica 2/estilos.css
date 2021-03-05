@@ -126,6 +126,18 @@ body {
 	font-size:20pt; 
 	font-style:italic;
 }
+.Ficha-Javier {
+    font-family: Helvetica, cursive;
+    border-radius: 35px 0px 35px 0px;
+    background: linear-gradient( #FF0000, white);
+    width: 300px;
+    display: block;
+    margin: auto;
+    border: #0000FF 5px double;
+    text-align: center;
+    color: #0000FF;
+    box-shadow: 2px 4px #ccc;
+}
     
 .Ficha-diego{
     font-family: Georgia, 'Times New Roman', Times, serif;
