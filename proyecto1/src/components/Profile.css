@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid black;
+    box-shadow: 0 4px #CCC;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.inner-title {
+    text-transform: uppercase;
+}
+
+.card-content ul {
+    list-style: none;
+}
