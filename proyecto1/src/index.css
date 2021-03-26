@@ -1,3 +1,20 @@
+:root {
+  --color-primary: #5643fa;;
+  --color-secondary-light: #2998ff;;
+  --color-grey-light-1: #f7f7f7;
+  --color-grey-light-2: #eee;
+  --color-gray-dark: #777;
+  --color-white: #fff;
+  --color-black: #000
+  /* Para usar las variables: 
+  
+    elemento {
+      background-color: var(--color-primary);
+    }
+  
+  */
+}
+
 *,
 *::after,
 *::before {
