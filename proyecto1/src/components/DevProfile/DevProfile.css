@@ -1,0 +1,33 @@
+.card{
+    background: rgba(126, 251, 193, 0.50);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    width: 400px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.DevProfileDescription{
+    border: rgb(126, 16, 107) 10px double;
+}
+
+p.DevProfileDescription{
+    color: white;
+}
+
+h3.DevProfileDescription{
+    color: white;
+}
+
+.DevProfileName{
+    border: rgb(126, 16, 107) 10px double;
+}
+
+h2.DevProfileName{
+    color: white;
+}
+
+.DevProfileImg{
+    border: rgb(126, 16, 107) 10px double;
+}
